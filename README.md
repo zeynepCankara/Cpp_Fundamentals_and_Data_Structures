@@ -1,6 +1,6 @@
-# Bilkent University CS 201 Homeworks (Fall 2018 - Spring 2019)
+# Bilkent University CS 201 Homeworks :notebook:
 
-Repository contains my solutions for Bilkent University's Fundamental Structures of Computer Science I homework assignments. The course introduces fundamental linear data structures and fundamental concepts about C++ programming language.
+Repository contains my solutions for Bilkent University's Fundamental Structures of Computer Science (Fall-2018 & Spring-2019) homework assignments. The course introduces fundamental linear data structures and fundamental concepts about C++ programming language.
 
 ## Homework Assignments:
 
